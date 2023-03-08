@@ -7,6 +7,6 @@ The original model's performance in hebrew is lacking - this is an attempt to cr
 ## Acknowledgments
 [Whisper](https://github.com/openai/whisper)
 
-[Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers] (https://huggingface.co/blog/fine-tune-whisper), by [Sanchit Gandhi](https://huggingface.co/sanchit-gandhi)
+[Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-whisper), by [Sanchit Gandhi](https://huggingface.co/sanchit-gandhi)
 
 [Kan Speech dataset](https://huggingface.co/datasets/imvladikon/hebrew_speech_kan) by [imvladikon](https://github.com/imvladikon)
